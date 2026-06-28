@@ -2,4 +2,5 @@ streamlit
 anthropic
 pandas
 openpyxl
-requests
+supabase
+streamlit-local-storage
